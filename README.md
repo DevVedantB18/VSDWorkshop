@@ -1,7 +1,7 @@
-# NASSCOM-RISC-V Workshop
+NASSCOM-RISC-V Workshop
 
 
-# Day 1
+ Day 1
 Sum of n numbers program
 ```c
 #include <stdio.h>
