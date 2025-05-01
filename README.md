@@ -193,7 +193,7 @@ vsduser@vsduser-VirtualBox:~/Day_1$
 
 </details>
 
-# Day 2
+ Day 2
 
 <details>
 <summary>Introduction to ABI and basic verification flow</summary>
@@ -292,219 +292,191 @@ AND OR XOR
 
 Lab Slide 14:
 
-[create 5bit vector](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKXq)
+create 5bit vector
+(https://makerchip.com/sandbox/04xfJhj1X/066hrk1)
 
-![image](https://github.com/user-attachments/assets/8d721029-dbe7-4c92-9bde-7ae9e93c9516)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/5bit%20Vector.png)
 
-Lab Slide 15:
+
 
 creating a simple 1bit & 8bit mux
 
-[1bit mux](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKXq#)
+1bit mux
+(https://www.makerchip.com/sandbox/082fjhzPg/076hAMy)
 
-![image](https://github.com/user-attachments/assets/ed80a51c-5589-4fbc-9f43-113854b7e623)
-
-[8bit mux]()
-
-Lab Slide 16
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/1%20bit%20MUX.png)
 
 create a calculator supporting +,-,*,/
 
-[calculator](https://makerchip.com/sandbox/0o2fXhoqM/076hANr)
+calculator
+(https://www.makerchip.com/sandbox/082fjhzPg/08qh63B)
 
-![image](https://github.com/user-attachments/assets/2739d5f0-46b2-45db-b45b-c51d391bc0f9)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/calculater.png)
 
-Lab Slide 21
+ free running counter
 
-create free running counter
+free running counter
+https://www.makerchip.com/sandbox/082fjhzPg/098hknA
 
-[free running counter](https://makerchip.com/sandbox/0o2fXhoqM/08qh6qD)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/free%20running%20counter.png)
 
-![image](https://github.com/user-attachments/assets/176dc749-3fe0-4ad8-b8db-6dbccdae66ab)
-
-
-Lab Slide 23
 
 add to calculator a d-flipflop to store the last result
 
-[calculator with store last result](https://makerchip.com/sandbox/0o2fXhoqM/00ghGBP)
+calculator with store last result
+(https://www.makerchip.com/sandbox/082fjhzPg/00ghGvj)
 
-![image](https://github.com/user-attachments/assets/37f54fb7-8b28-4d06-99d3-8896ab6d84fb)
-
-Lab Slide 24
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/claculater%20store%20result.png)
 
 pipeling shown an compute pythagoras theorem
 
-[pythagoras pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0k5hOB0)
+pythagoras pipeline
+(https://www.makerchip.com/sandbox/082fjhzPg/0g5hA6n)
 
-![image](https://github.com/user-attachments/assets/6bab7782-0a6f-4ce1-96c5-1b14c5cdeec9)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/pythagoras%20pipeline.png)
 
-Lab Slide 33
 
-Fibbonaci series in pipeline
 
-[fionacci pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0mwhjl3)
+fionacci pipeline
+(https://www.makerchip.com/sandbox/082fjhzPg/0j2hnE1)
 
-![image](https://github.com/user-attachments/assets/e4e0ef83-eb02-4a97-8adf-e4408fe0e695)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/fibunacci.png)
 
-Lab Slide 34
 
-Pipeline error handler
 
-[calc error handling](https://makerchip.com/sandbox/0o2fXhoqM/0oYhrY9)
+calculater error handling
+(https://makerchip.com/sandbox/04xfJhj1X/0k5hOlL)
 
-![image](https://github.com/user-attachments/assets/f961d1ef-9f02-4df5-80c3-79d4f8922ac7)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/calculater%20error%20handling.png)
 
-Lab Slide 35
 
-Counter and Calculator in a pipeline
 
-[calc_and_counter_in_pipeline](https://makerchip.com/sandbox/0o2fXhoqM/0r0h8ZK)
+calculater_and_counter_in_pipeline
+(https://makerchip.com/sandbox/04xfJhj1X/0lOh2Gg)
 
 ![image](https://github.com/user-attachments/assets/bfd69f62-a163-499b-8b1d-e4c21ad1965e)
 
-Lab Slide 36
+2-cycle calculator
+(https://makerchip.com/sandbox/04xfJhj1X/0mwhjXD)
 
-2-Cycle Calculator
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/2-cycle%20calculater.png)
 
-[2-cycle calculator](https://makerchip.com/sandbox/0o2fXhoqM/0Bgh7mD)
 
-![image](https://github.com/user-attachments/assets/e7a6e3ba-6bd5-45a6-88d6-a015ea733b18)
-
-Lab Slide 41
 
 2-Cycle Calculator with validity
+(https://makerchip.com/sandbox/04xfJhj1X/0nZh7wO)
 
-[2_cycl_clalc_validity](https://makerchip.com/sandbox/0o2fXhoqM/0GZh1lA#)
-
-![image](https://github.com/user-attachments/assets/ce816c4f-9f47-4ad5-a970-a95056cf3517)
-
-Lab Slide 43
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/2-cycle%20calculater%20with%20validity.png)
 
 add memory and recall function to calculator
 
-[mem_recall_calc](https://makerchip.com/sandbox/0o2fXhoqM/0KOh2wB#)
+(https://makerchip.com/sandbox/04xfJhj1X/0oYhr94)
 
-![image](https://github.com/user-attachments/assets/4a24a983-2102-4671-8d9a-02e6320280e7)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/c355e47e9776d2418a8de3544272353a58070019/momory%20recall%20calculater.png)
 
 
-</details>
 
-# Day 4
 
-<details>
-<summary>Basic RISC-V CPU microarchitectur</summary>
-
-Lab Slide Day 4 Lab Part 1
+ Day 4
 
 implement program counter
 
-[program counter](https://makerchip.com/sandbox/0o2fXhoqM/0P1hKmq#)
+program counter
+(https://makerchip.com/sandbox/04xfJhj1X/0pghnkG)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/dfaa12b330dffcc0e3ea47fd3306d9ca5ff40ae8/program%20counter.png)
 
-![image](https://github.com/user-attachments/assets/4a5d2244-aacb-4ab5-9644-539412d461a3)
-
-Lab Slide 7
 
 Fetch instruction
 
-[fetch](https://makerchip.com/sandbox/0o2fXhoqM/0Q1hkq4#)
+(https://makerchip.com/sandbox/04xfJhj1X/0qjh8Bp)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/fetch.png)
 
-Lab Slide 10
 
-[instrution format decode](https://makerchip.com/sandbox/0o2fXhoqM/0X6hXN5#)
 
-![image](https://github.com/user-attachments/assets/dcf55480-e884-4bdc-9800-44d9787e8b9e)
+instrution format decode
+(https://makerchip.com/sandbox/04xfJhj1X/0r0h8MW)
 
-Lab Slide 10
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/instruction%20Format%20Decode.png)
 
-[imm retrieval](https://makerchip.com/sandbox/0o2fXhoqM/0X6hXN5#)
 
-![image](https://github.com/user-attachments/assets/de6697cb-f8f3-4e18-a928-abad169e9a88)
 
-Lab Slide 11
+im retrieval
+(https://makerchip.com/sandbox/04xfJhj1X/0vgh71l)
 
-[instruction decode other fields](https://makerchip.com/sandbox/0o2fXhoqM/0Y6hLZ8#)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/retrieval.png)
 
-![image](https://github.com/user-attachments/assets/1b2a83bb-309b-4ea6-b40c-f8afa786afe2)
 
-Lab Slide 12
+instruction decode other fields
+(https://makerchip.com/sandbox/04xfJhj1X/0wjhG6n)
 
-[RISC-V instruction field decode](https://makerchip.com/sandbox/0o2fXhoqM/0Z4h5RE#)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/instruction%20decode%20fields%20other.png)
 
-![image](https://github.com/user-attachments/assets/a7a491e2-c678-4c5f-88fb-4d712814258e)
 
-Lab Slide 13
+RISC-V instruction field decode
+(https://makerchip.com/sandbox/04xfJhj1X/0xGh18E)
 
-[vality check and instruction decode](https://makerchip.com/sandbox/0o2fXhoqM/01jhMm7#)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/RISC-V%20INSTRUCTION%20FIELD%20.png)
 
-![image](https://github.com/user-attachments/assets/1ab9df7f-d9dc-4b46-b94d-c7377961a5af)
+
+validity check and instruction decode
+(https://makerchip.com/sandbox/04xfJhj1X/0y8hrDP)
+
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/Validity%20Check%20and%20Instruction%20Decode.png)
 
 Lab Slide 16
 
-[read register file](https://makerchip.com/sandbox/0o2fXhoqM/02RhpGg#)
+read register 
+(https://makerchip.com/sandbox/04xfJhj1X/0zmhMDX)
 
-![image](https://github.com/user-attachments/assets/33d85ab9-7ad1-44ca-9401-7fbe7e4e7e9d)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/read%20register%20.png)
 
 Lab Slide 13
+(https://makerchip.com/sandbox/04xfJhj1X/0AnhN0L)
 
-[ALU](https://makerchip.com/sandbox/0o2fXhoqM/03lhpM4#)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/ALU.png)
 
-![image](https://github.com/user-attachments/assets/b8e04e24-f830-46b4-befa-d9dea988e643)
+branch
+(https://makerchip.com/sandbox/04xfJhj1X/0Bgh7qj)
 
-Lab Slide 22
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/branch.png)
 
-[branch](https://makerchip.com/sandbox/0o2fXhoqM/048hBWx#)
+testbench
+(https://makerchip.com/sandbox/04xfJhj1X/0DRh5pG)
 
-![image](https://github.com/user-attachments/assets/de2ee381-e5bd-41a1-995e-24b9803e295d)
-
-Lab Slide 25
-
-[testbench](https://makerchip.com/sandbox/0o2fXhoqM/058hZKk#)
-
-![image](https://github.com/user-attachments/assets/8a02de43-b3d3-4e0d-a263-696478aaac59)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/026119654b105e26ea245dcd083e26466c5b2aa6/testbench.png)
 
 
-</details>
 
-# Day 5
-
-<details>
-<summary>Compete pipliened RISC-V CPU micro architectur</summary>
+ Day 5
 
 Pipelining the CPU
 
-[3 cycle $valid](https://makerchip.com/sandbox/0o2fXhoqM/08qh6MD#)
+3 cycle $valid
+(https://makerchip.com/sandbox/04xfJhj1X/0Elh3y5)
 
-![image](https://github.com/user-attachments/assets/bbdec698-2b46-40af-9b50-a9288123abf2)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/23d02b593bb9318268cb6e4ecb414b08b89c842f/3%20cycle%20valid.png)
 
-[update pc after 3-cycles](https://makerchip.com/sandbox/0o2fXhoqM/08qh6MD#)
+update pc after 3-cycles
+(https://makerchip.com/sandbox/04xfJhj1X/0GZh1n4)
 
-![image](https://github.com/user-attachments/assets/3cebfe08-564a-4172-a58c-fbf112004216)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/23d02b593bb9318268cb6e4ecb414b08b89c842f/update%20pc%20after%203-cycle.png)
 
-[3 stage pipline](https://makerchip.com/sandbox/0o2fXhoqM/0Wnh5Qo#)
+3 stage pipline
+(https://makerchip.com/sandbox/04xfJhj1X/0JZhqOz)
 
-![image](https://github.com/user-attachments/assets/6bfa2129-de8c-4210-b2fe-ca5ac014c24e)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/23d02b593bb9318268cb6e4ecb414b08b89c842f/3-stage%20pipeline.png)
 
-[reg bypass](https://makerchip.com/sandbox/0o2fXhoqM/058hZzD#)
+reg bypass
+(https://makerchip.com/sandbox/04xfJhj1X/0KOh2KY)
 
-![image](https://github.com/user-attachments/assets/4b21890e-04cd-4db7-bfd7-a5b63c19f2ce)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/23d02b593bb9318268cb6e4ecb414b08b89c842f/register%20bypass.png)
 
-[branch correction](https://makerchip.com/sandbox/0wpfLhxmq/0wjhGmk#)
 
-![image](https://github.com/user-attachments/assets/176d9a72-f71f-433d-8e9b-4fe7475b2814)
+final design
+(https://www.makerchip.com/sandbox/082fjhzPg/0LghRqr)
 
-[decode other instaructions](https://makerchip.com/sandbox/0wpfLhxmq/0zmhMZN#)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/86d35403b254d55bab5f07132c3c5543f11fe551/final%20result.png)
 
-![image](https://github.com/user-attachments/assets/993c5ca9-73a4-4de9-ac72-83eb768dcb8b)
 
-[add load and store, @4 stage](https://makerchip.com/sandbox/0wpfLhxmq/0Bgh7rE#)
 
-![image](https://github.com/user-attachments/assets/f867b9f6-fb9a-4ffe-bfce-3ade96dbd885)
 
-[final design](https://makerchip.com/sandbox/0wpfLhxmq/0Elh329#)
-
-![image](https://github.com/user-attachments/assets/ae737433-bdbb-4d06-b03c-7cac27b722ff)
-
-# WORK IN PROGRESS - still struggle with last lab
-
-</details>
