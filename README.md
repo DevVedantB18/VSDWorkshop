@@ -475,7 +475,7 @@ reg bypass
 final design
 (https://www.makerchip.com/sandbox/082fjhzPg/0LghRqr)
 
-![image](https://github.com/DevVedantB18/VSDWorkshop/blob/86d35403b254d55bab5f07132c3c5543f11fe551/final%20result.png)
+![image](https://github.com/DevVedantB18/VSDWorkshop/blob/312e8fc0fa5265e951fdfbc6dfed6ead39b9b894/final%20result.png)
 
 
 
