@@ -3,7 +3,7 @@ NASSCOM-RISC-V Workshop
 
  Day 1
 Sum of n numbers program
-```c
+
 #include <stdio.h>
 
 int main() {
@@ -14,7 +14,7 @@ int main() {
 	printf("Sum of numbers form 1 to %d is %d\n", n, sum);
 	return 0;
 }
-```
+
 
 ![image](https://github.com/user-attachments/assets/0e29972f-61cf-4276-8a7f-1918d141a789)
 
