@@ -1,16 +1,8 @@
 # NASSCOM-RISC-V Workshop
-NASSCOM RISC-V Based MYTH Repo [16 April - 25 April 2025]
 
-Goal is to implement a simple RISC-V CPU using Makerchip.com.
 
 # Day 1
-<details>
-<summary>Introductio to RISC-V ISA and GNU compiler toolchain</summary>
-
-Explanation of RV64I (base integer instruction), RV64M (multiply extension), RV64F (floatingpoint extension), RV64D (double precision extension), ABI (application binary interface), memory allocation & stack pointer
-
-create simple C-program sum1ton.c, compile and run.
-
+Sum of n numbers program
 ```c
 #include <stdio.h>
 
@@ -275,10 +267,8 @@ run ./rv32im.sh and check output in belo screen shot
 
 # Day 3
 
-<details>
-<summary>Introductio to TL-Verilog and Makerchip</summary>
 
-Lab Slide 12:
+Introductio to Makerchip
 
 load pythagoras example, arrange windows, click on $bb_sp in diagram
 
@@ -288,13 +278,15 @@ Lab Slide 13:
 
 simulate an inverter
 
-[Inverter](https://makerchip.com/sandbox/0o2fXhoqM/0O7hpx3#)
+Inverter
+https://makerchip.com/sandbox/0o2fXhoqM/0O7hpx3#
 
 ![image](https://github.com/user-attachments/assets/9199880a-7f8c-4821-af21-9fcc5fe8e6fa)
 
 simulate and, or, xor
 
-[AND OR XOR](https://makerchip.com/sandbox/0o2fXhoqM/0O7hpx3#)
+AND OR XOR
+(https://makerchip.com/sandbox/04xfJhj1X/058hZ8p)
 
 ![image](https://github.com/user-attachments/assets/938f779d-57b2-4a1d-839f-8aa9b68459cd)
 
