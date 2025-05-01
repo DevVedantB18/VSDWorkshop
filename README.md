@@ -191,12 +191,12 @@ vsduser@vsduser-VirtualBox:~/Day_1$
 ![image](https://github.com/user-attachments/assets/d05dcee1-3883-4e82-be2e-d920e1364ccd)
 
 
-</details>
+
 
  Day 2
 
-<details>
-<summary>Introduction to ABI and basic verification flow</summary>
+
+Introduction to ABI and basic verification flow
 
 In Day 2 we are takling about ABI (application binary interface) and how it can be acced via system calls from a programmer and why we have 32 register.
 
@@ -214,7 +214,7 @@ LAB: call a asm-program "loop.s" from a C-program an pass int values back and fo
 
 C-program 1to9_custom.c
 
-```c
+
 #include <stdio.h>
 
 extern int load(int x, int y);
@@ -225,11 +225,11 @@ int main() {
 	result = load(0x0, count+1);
 	printf("Sum of numbers from i to %d is %d\n", count, result);
 }
-```
+
 
 Assembler program load.s
 
-```s
+
 .section .text
 .global load
 .type load, @function
@@ -243,7 +243,7 @@ loop:	add	a4, a3, a4	// incremental addition
 	blt	a3, a2, loop	// if a3 is less than a2, branch to label named <loop>
 	add	a0, a4, zero	// stor final result to register a0so that it can be read by main() program
 	ret
-```
+
 
 
 ![image](https://github.com/user-attachments/assets/03010e5b-010b-4956-93fa-e0c1f891ec0c)
@@ -263,7 +263,7 @@ run ./rv32im.sh and check output in belo screen shot
 ![image](https://github.com/user-attachments/assets/0db1d4e7-2ba6-416e-8636-c8ff9909e9d7)
 
 
-</details>
+
 
 # Day 3
 
